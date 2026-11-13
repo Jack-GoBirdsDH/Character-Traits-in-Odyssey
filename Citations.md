@@ -2,5 +2,6 @@
 
 Citations will go here.
 
-- One citation.
-- Two citations.
+1. One citation.
+1. Two citations.
+1. Three citations.
